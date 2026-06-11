@@ -3200,7 +3200,7 @@ Las cuotas del préstamo se descuentan de tu cuenta automáticamente cada mes. N
 El servidor oficial de Discord es un lugar en donde los jugadores y creadores pasan el tiempo, enseñan sus creaciones y hacen nuevos amigos. El link se puede encontrar en el juego en el menú de ajustes.
     </string>
     <string name="tip_topic_making_plugins_title">
-Puedes hacer tus propios plugins. Es facil™
+Puedes hacer tus propios plugins. Es facil
     </string>
     <string name="tip_topic_making_plugins_text">
 Puede ser abrumador al principio, pero hacer plugins es fácil. Para dibujar las texturas, puedes utilizar programas como paint.net en PC o Pixly en móvil. Para hacer el código (json), puedes escribirlo por tu cuenta con la ayuda de los foros con programas como VSC o usar https://pca.svetikas.lt/. Si tienes alguna pregunta, ¡te la podemos contestar en los foros o en Discord!
@@ -3332,7 +3332,7 @@ No todos los edificios tienen frames de rotación
     Algunos edificios del juego base no tienen frames de rotación, pero esto es más prevalente con los plugins debido a que los autores no suelen dibujarlos. Para ver qué edificios tienen frames de rotación, dale clic en un edificio y mira si se puede cambiar de variante con los botones en la esquina superior derecha. No tener frames de rotación permite más edificios variados.
     </string>
     <string name="tip_topic_map_rotation_title">
-Camvia la rotación del mapa con el minimapa
+Cambia la rotación del mapa con el minimapa
     </string>
     <string name="tip_topic_map_rotation_text">
 El minimapa puede ser usado como una herramienta para girar el mapa. Dale clic al minimapa y luego a las flechas para girar el mapa a la izquierda o a la derecha. Ten en cuenta que algunos edificios no rotarán debidamente ya que no tienen provistos con frames de rotación.
@@ -3386,7 +3386,7 @@ Para reducir el lag, deshabilita el zoom suave
 Si sientes que el juego va con lag, considera deshabilitar el zoom suave. Esta opción se encuentra en los ajustes del juego.
     </string>
     <string name="tip_topic_building_bridges_title">
-Eleva las carrteras con las opciones arriba a la derecha
+Eleva las carreteras con las opciones arriba a la derecha
     </string>
     <string name="tip_topic_building_bridges_text">
 Cuando estés construyendo una carretera, primero presiona el punto de inicio, luego dale la opción de ir arriba (arriba a la derecha) y presiona el punto final para construir un puente hacia arriba. Para bajar, primero selecciona el punto de inicio sobre el puente, luego le das a la opción de ir hacia abajo y pones el punto final. También existe una opción para construir un puente automáticamente llamado puente. Ten en cuenta que no todas las carreteras permiten puentes.
